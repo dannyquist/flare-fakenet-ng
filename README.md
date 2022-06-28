@@ -1,4 +1,4 @@
-Development Suspended
+Development Resumed
 =====================
 
 The FLARE Team must suspend development and maintenance of FakeNet-NG for the
